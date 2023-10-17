@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1695364762 source:c:\users\user\onedrive\desktop\project\learn c\learn c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1695365017 source:c:\users\user\onedrive\desktop\project\learn c\learn c\prime.c
+	<stdio.h>
+	<stdlib.h>
+
+1695365017 source:c:\users\user\onedrive\desktop\project\learn c\learn c\rectangle.c
+	<stdio.h>
+	<stdlib.h>
+
+1695751356 source:c:\users\user\onedrive\desktop\project\learn c\learn c\array.c
+	<stdio.h>
+	<stdlib.h>
+
+1695788487 source:c:\users\user\onedrive\desktop\project\learn c\learn c\palindrome.c
+	<stdio.h>
+	<stdlib.h>
+
+1695789807 source:c:\users\user\onedrive\desktop\project\learn c\learn c\2d array.c
+	<stdio.h>
+	<stdlib.h>
+
+1695790822 source:c:\users\user\onedrive\desktop\project\learn c\learn c\difference.c
+	<stdio.h>
+	<stdlib.h>
+
+1695793102 source:c:\users\user\onedrive\desktop\project\learn c\learn c\fn.c
+	<stdio.h>
+	<stdlib.h>
+
+1695960780 source:c:\users\user\onedrive\desktop\project\learn c\learn c\calculator.c
+	<stdio.h>
+	<stdlib.h>
+
+1695963817 source:c:\users\user\onedrive\desktop\project\learn c\learn c\prime upto 100.c
+	<stdio.h>
+
+1695968790 source:c:\users\user\onedrive\desktop\project\learn c\learn c\largest numbr.c
+	<stdio.h>
+
+1696393875 source:c:\users\user\onedrive\desktop\project\learn c\learn c\nw.c
+	<stdio.h>
+	<stdlib.h>
+
+1696397792 source:c:\users\user\onedrive\desktop\project\learn c\learn c\matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1696399672 source:c:\users\user\onedrive\desktop\project\learn c\learn c\mat.c
+	<stdio.h>
+	<stdlib.h>
+
